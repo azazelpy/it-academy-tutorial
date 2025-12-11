@@ -81,7 +81,7 @@ export const tutorials: Tutorial[] = [
     duration: 15,
     description:
       'Aprende los conceptos básicos del soporte técnico IT y qué esperar en esta carrera.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/introduccion-soporte-tecnico.mp4',
     content: `
 ## ¿Qué es el Soporte Técnico IT?
 
@@ -128,7 +128,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     duration: 20,
     description:
       'Conoce las herramientas indispensables que todo técnico IT debe dominar.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/herramientas-esenciales.mp4',
     content: `
 ## Herramientas Esenciales del Técnico IT
 
@@ -183,7 +183,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     duration: 25,
     description:
       'Familiarízate con los componentes esenciales de una computadora.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/componentes-hardware.mp4',
     content: `
 ## Componentes de Hardware Básicos
 
@@ -240,7 +240,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 30,
     description: 'Entiende los fundamentos de las redes de computadoras.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/conceptos-redes.mp4',
     content: `
 ## Conceptos Básicos de Redes
 
@@ -312,7 +312,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 35,
     description: 'Introducción a Windows Server y sus características.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/windows-server-fundamentos.mp4',
     content: `
 ## Windows Server Fundamentos
 
@@ -380,7 +380,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     duration: 25,
     description:
       'Conceptos básicos de seguridad que todo técnico IT debe conocer.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/ciberseguridad-fundamentos.mp4',
     content: `
 ## Fundamentos de Ciberseguridad
 
@@ -449,7 +449,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 28,
     description: 'Cómo administrar usuarios, grupos y permisos en sistemas IT.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/gestion-usuarios-permisos.mp4',
     content: `
 ## Gestión de Usuarios y Permisos
 
@@ -527,7 +527,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 30,
     description: 'Aprende a proteger datos mediante backups efectivos.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/backup-recuperacion.mp4',
     content: `
 ## Estrategias de Backup y Recuperación
 
@@ -612,7 +612,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 25,
     description: 'Aprende el proceso sistemático para resolver problemas IT.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/troubleshooting-metodologia.mp4',
     content: `
 ## Metodología de Troubleshooting
 
@@ -711,7 +711,7 @@ El soporte técnico IT (Information Technology) es la función fundamental en cu
     difficulty: 'beginner',
     duration: 40,
     description: 'Soluciones a problemas IT más frecuentes en el Help Desk.',
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ',
+    videoUrl: '/videos/problemas-comunes-soluciones.mp4',
     content: `
 ## Problemas Comunes y Soluciones
 
